@@ -1,0 +1,59 @@
+{
+  "title": "ACTIVIDADES CUADERNILLO GEOGRAFIA",
+  "author": "CECILIA G, FERNANDO R, LUI MENDEZ",
+  "school": "UNISON CABORCA",
+  "date": "5/10/26",
+  "areaCodes": [
+    "exp"
+  ],
+  "areas": {
+    "es": "Ciencias experimentales"
+  },
+  "levelCodes": [
+    "PRI"
+  ],
+  "levels": {
+    "es": "Primaria (6-12)"
+  },
+  "description": {
+    "es": "FASE 4,  ÉTICA NATURALEZA Y SOCIEDADES"
+  },
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "actividades_cuadernillo_geografia.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 11,
+  "mediaFiles": 19,
+  "totalSize": 899725,
+  "files": [
+    "01_erupcion_volcanica-resized.jpg",
+    "02_lluvia_constante_sobre_una_montana-resized.jpg",
+    "03_oleaje_golpeando_la_costa-resized.jpg",
+    "04_desgaste_montanas_viento_lluvia-resized.jpg",
+    "05_formacion_volcan_o_montana-resized.jpg",
+    "06_formacion_barrancas_valles_erosion-resized.jpg",
+    "07_acantilados_relieve_costero-resized.jpg",
+    "08_relieve_mas_bajo_erosionado-resized.jpg",
+    "actividades_cuadernillo_geografia.jclic",
+    "actividades_cuadernillo_geografia.jclic.js",
+    "depresion.png",
+    "favicon.ico",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "llanura.jpg",
+    "meseta.png",
+    "montana.png",
+    "placas_tectonicas-resized.jpg",
+    "portada_relieve-resized.jpg",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json"
+  ]
+}
